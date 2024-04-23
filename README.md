@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Rodrigo Viana, mas pode me chamar de Rodrigão!
+👋 Olá! Eu sou o Rodrigo Viana Carneiro da Silva !
 
 📊 Sou apaixonado por dados e trago uma sólida bagagem em gestão e planejamento da indústria de engenharia civil e telecomunicações. Durante minha formação em Ciência de Dados na Escola DNC, aprimorei minhas habilidades em análise avançada de dados, criação de dashboards e ETL (Extract, Transform, Load), dominando ferramentas como SQL, Python e suas bibliotecas de Machine Learning, além de Excel avançado e Power BI.
 
@@ -8,7 +8,7 @@
 
 ◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►◄►
 
-👋 Hi there! I'm Rodrigo Viana, but you can call me Rodrigão!
+👋 Hi there! I'm Rodrigo Viana Carneiro da Silva!
 
 📊 I'm passionate about data and bring a solid background in management and planning from the civil engineering and telecommunications industry.
   During my Data Science training at DNC School, I honed my skills in advanced data analysis, dashboard creation, and ETL (Extract, Transform, Load), mastering tools like SQL, Python, and their Machine Learning libraries, as well as advanced Excel and Power BI.
